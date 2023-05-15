@@ -2,4 +2,4 @@
 Use case: AI Gym Trainer  
 Primary Authors:  
 Venkata Sai P Bhamidipati  
-Ishi saxena
+Ishi Saxena
